@@ -10,5 +10,5 @@ The aim of the E-commerce Sales Dashboard project was to provide a comprehensive
  - Data modeling
 
 
-Check it here please:
+Check it here please: https://github.com/VikashKumar0120/ECOMMERCE-SALES-DASHBOARD.git
 
